@@ -1,6 +1,6 @@
 {
   "name": "better-web-sockets",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js with support for socket identification",
   "keywords": [
     "HyBi",
