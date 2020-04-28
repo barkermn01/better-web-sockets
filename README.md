@@ -499,7 +499,7 @@ We're using the GitHub [releases][changelog] for changelog entries.
 [MIT](LICENSE)
 
 ## Original project
-This project is a fork of https://github.com/websockets/ws and improvide so applications can identify sockets for permissions sets
+This project is a fork of https://github.com/websockets/ws and improved so applications can identify sockets for permissions sets
 
 [changelog]: https://github.com/websockets/ws/releases
 [https-proxy-agent]: https://github.com/TooTallNate/node-https-proxy-agent
