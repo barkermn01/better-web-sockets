@@ -12,7 +12,7 @@
   ],
   "homepage": "https://github.com/barkermn01/better-web-sockets",
   "bugs": "https://github.com/barkermn01/better-web-sockets/issues",
-  "repository": "barkermn01/better-ws",
+  "repository": "barkermn01/better-web-sockets",
   "author": "Martin Barker",
   "license": "MIT",
   "main": "index.js",
